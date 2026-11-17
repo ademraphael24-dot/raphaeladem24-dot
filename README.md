@@ -25,9 +25,13 @@ I enjoy transforming raw data into meaningful insights that help businesses unde
 
 📊 Featured Projects
 
-| Project | Description | Tools |
-|---|---|---|
-| [IVAAN RICE LTD.](https://github.com/ademraphael24-dot/ivaan-rice-business-analysi) | Business Operations Analysis and Performance Dashboard | Power BI / Excel |
+**1. [IVAAN RICE LTD. – Business Operations Analysis](https://github.com/ademraphael24-dot/ivaan-rice-business-analysi)**
+
+An interactive business operations dashboard analysing income, expenses, profitability and monthly performance trends to support data-driven business decisions.
+
+**Tools:** Power BI / Excel
+
+More projects coming soon!
  
 
 🎯 Career Objective
