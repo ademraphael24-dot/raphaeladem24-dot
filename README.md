@@ -25,7 +25,10 @@ I enjoy transforming raw data into meaningful insights that help businesses unde
 
 📊 Featured Projects
 
-Coming soon! I'm currently documenting my analytics projects.
+| Project | Description | Tools |
+|---|---|---|
+| [IVAAN RICE LTD.](YOUR_REPOSITORY_LINK) | Business Operations Analysis and Performance Dashboard | Power BI / Excel |
+ 
 
 🎯 Career Objective
 
