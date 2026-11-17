@@ -27,7 +27,7 @@ I enjoy transforming raw data into meaningful insights that help businesses unde
 
 | Project | Description | Tools |
 |---|---|---|
-| [IVAAN RICE LTD.](YOUR_REPOSITORY_LINK) | Business Operations Analysis and Performance Dashboard | Power BI / Excel |
+| [IVAAN RICE LTD.](https://github.com/ademraphael24-dot/ivaan-rice-business-analysi) | Business Operations Analysis and Performance Dashboard | Power BI / Excel |
  
 
 🎯 Career Objective
