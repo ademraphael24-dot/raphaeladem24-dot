@@ -14,8 +14,9 @@ I enjoy transforming raw data into meaningful insights that help businesses unde
 - Data Analysis
 - Data Visualization
 - Business Intelligence
-- Data Entry
 - Data Annotation
+- Data Entry
+- Business Operations Analysis
 
 💻 Tools & Technologies
 
@@ -23,6 +24,12 @@ I enjoy transforming raw data into meaningful insights that help businesses unde
 - Power BI
 - SQL
 
+📈 Currently Developing
+
+- Advanced Power BI
+- SQL for Data Analytics
+- AI-Powered Data Analysis
+- Business Intelligence & Reporting
 📊 Featured Projects
 
 **1. [IVAAN RICE LTD. – Business Operations Analysis](https://github.com/ademraphael24-dot/ivaan-rice-business-analysi)**
